@@ -1,2 +1,2 @@
 streamlit
-winotify 
+winotify =1.1.0
